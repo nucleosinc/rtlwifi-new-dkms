@@ -1,0 +1,8 @@
+Source: rtlwifi-new-dkms
+Maintainer: Piotr Zduniak <piotr@nucleos.com>
+Build-Depends: debhelper (>= 9), dkms
+
+Package: rtlwifi-new-dkms
+Architecture: all
+Depends: ${misc:Depends}
+Description: DKMS source for the Realtek drivers

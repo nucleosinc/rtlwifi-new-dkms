@@ -1,5 +1,5 @@
-rtlwifi-new-dkms (1.0.0-0) stretch; urgency=medium
+rtlwifi-new-dkms (1.0.0-0) unstable; urgency=medium
 
   * Initial package.
 
- -- Piotr Zduniak <piotr@nucleos.com> Sat, 9 Jun Feb 2018 15:08:23 +0100
+ -- Piotr Zduniak <piotr@nucleos.com>  Sat, 09 Jun 2018 15:08:23 +0100
